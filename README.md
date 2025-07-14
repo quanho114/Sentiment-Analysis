@@ -80,8 +80,8 @@ Observation: BERT performs significantly better, especially on the Neutral and N
 
 ## How to Run
 
-1. Clone the repository:
-git clone https://github.com/yourusername/sentiment-analysis-amazon.git
-cd sentiment-analysis-amazon
+1. Clone the repository
+git clone https://github.com/quanho114/Sentiment-Analysis.git
+cd Sentiment-Analysis
 
-2. Run the notebooks
+3. Run the notebooks
