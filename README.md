@@ -80,9 +80,9 @@ Observation: BERT performs significantly better, especially on the Neutral and N
 
 ## How to Run
 
-1. Clone the repository
+1. Clone the repository:
+```bash
 git clone https://github.com/quanho114/Sentiment-Analysis.git
-
 cd Sentiment-Analysis
 
-3. Run the notebooks
+2. Run the notebooks
